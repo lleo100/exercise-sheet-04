@@ -8,7 +8,4 @@
   ```sh
   mvn clean compile exec:java@Exercise04BaseApp
   ```
-  and
-  ```sh
-  mvn clean compile exec:java@Exercise04BaseApp
-  ```
+ 
