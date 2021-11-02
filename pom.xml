@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.unistuttgart.iste.sqa.pse</groupId>
-	<artifactId>sheet03</artifactId>
-	<version>1.0.0</version>
-	<name>Sheet 03</name>
+	<artifactId>sheet4</artifactId>
+	<version>1.0.1</version>
+	<name>Sheet 04</name>
 
 
 	<properties>
@@ -43,7 +43,7 @@
 							<goal>java</goal>
 						</goals>
 						<configuration>
-							<mainClass>de.unistuttgart.iste.sqa.pse.sheet03.presence.ExerciseHamsterGameApp</mainClass>
+							<mainClass>de.unistuttgart.iste.sqa.pse.sheet04.exercise.ExerciseHamsterGameApp</mainClass>
 						</configuration>
 					</execution>
 					<execution>
@@ -52,7 +52,7 @@
 							<goal>java</goal>
 						</goals>
 						<configuration>
-							<mainClass>de.unistuttgart.iste.sqa.pse.sheet03.homework.HomeworkHamsterGameApp</mainClass>
+							<mainClass>de.unistuttgart.iste.sqa.pse.sheet04.exercise.HomeworkHamsterGameApp</mainClass>
 						</configuration>
 					</execution>
 				</executions>
