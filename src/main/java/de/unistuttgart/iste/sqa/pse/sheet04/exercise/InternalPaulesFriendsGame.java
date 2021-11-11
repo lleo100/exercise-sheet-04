@@ -7,8 +7,8 @@ import de.hamstersimulator.objectsfirst.inspector.InspectableSimpleHamsterGame;
  * @author (Your name)
  * @version (A date or a version number)
  */
-public abstract class Exercise04Base extends InspectableSimpleHamsterGame{
-	public Exercise04Base() {
+public abstract class InternalPaulesFriendsGame extends InspectableSimpleHamsterGame{
+	public InternalPaulesFriendsGame() {
 		this.loadTerritoryFromResourceFile("/territories/territory-ub04.ter");
 		this.displayInNewGameWindow();
 	}

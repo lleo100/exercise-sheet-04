@@ -6,7 +6,7 @@ import de.hamstersimulator.objectsfirst.external.model.Hamster;
 
 
 
-public class PaulesFriendsGame extends Exercise04Base{
+public class PaulesFriendsGame extends InternalPaulesFriendsGame{
 	
 	/**
 	 * Put your hamster code into this operation.
@@ -14,6 +14,7 @@ public class PaulesFriendsGame extends Exercise04Base{
 	void createPaulesFriends() {
 		// TODO: implement according to exercise 2 of sheet 4
 		
+
 		// Hint: Be careful with the location of the new hamsters
 		
 		
