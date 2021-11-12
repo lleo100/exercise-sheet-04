@@ -38,7 +38,7 @@
 				<version>3.0.0</version>
 				<executions>
 					<execution>
-						<id>ExerciseHamsterGameApp</id>
+						<id>PaulesFriendsGameApp</id>
 						<goals>
 							<goal>java</goal>
 						</goals>
