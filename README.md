@@ -6,6 +6,6 @@
 - Open and run in VSCode
 - Unsupported: Run via Maven:
   ```sh
-  mvn clean compile exec:java@ExerciseHamsterGameApp
+  mvn clean compile exec:java@PaulesFriendsGameApp
   ```
  
