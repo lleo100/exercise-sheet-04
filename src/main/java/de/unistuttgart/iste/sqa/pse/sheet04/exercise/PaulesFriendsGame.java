@@ -4,20 +4,16 @@ import de.hamstersimulator.objectsfirst.datatypes.Direction;
 import de.hamstersimulator.objectsfirst.datatypes.Location;
 import de.hamstersimulator.objectsfirst.external.model.Hamster;
 
+public class PaulesFriendsGame extends InternalPaulesFriendsGame {
 
-
-public class PaulesFriendsGame extends InternalPaulesFriendsGame{
-	
 	/**
 	 * Put your hamster code into this operation.
 	 */
 	void createPaulesFriends() {
 		// TODO: implement according to exercise 2 of sheet 4
-		
 
 		// Hint: Be careful with the location of the new hamsters
-		
-		
+
 	}
 
 	/**
@@ -25,6 +21,6 @@ public class PaulesFriendsGame extends InternalPaulesFriendsGame{
 	 */
 	protected void run() {
 		game.startGame();
-		createPaulesFriends();		
+		createPaulesFriends();
 	}
 }
