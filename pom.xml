@@ -43,7 +43,7 @@
 							<goal>java</goal>
 						</goals>
 						<configuration>
-							<mainClass>de.unistuttgart.iste.sqa.pse.sheet04.exercise.ExerciseHamsterGameApp</mainClass>
+							<mainClass>de.unistuttgart.iste.sqa.pse.sheet04.exercise.PaulesFriendsGameApp</mainClass>
 						</configuration>
 					</execution>
 				</executions>
