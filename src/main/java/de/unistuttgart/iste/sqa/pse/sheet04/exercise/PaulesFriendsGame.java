@@ -9,7 +9,6 @@ public class PaulesFriendsGame extends InternalPaulesFriendsGame {
 		// TODO: implement according to exercise 2 of sheet 4
 
 		// Hint: Be careful with the location of the new hamsters
-
 	}
 
 	/**
