@@ -4,7 +4,7 @@ import de.hamstersimulator.objectsfirst.inspector.InspectableSimpleHamsterGame;
 
 /**
  * abstract class Exercise04Base - describe this class right here.
- * 
+ *
  * @author (Your name)
  * @version (A date or a version number)
  */

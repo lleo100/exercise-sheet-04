@@ -1,9 +1,5 @@
 package de.unistuttgart.iste.sqa.pse.sheet04.exercise;
 
-import de.hamstersimulator.objectsfirst.datatypes.Direction;
-import de.hamstersimulator.objectsfirst.datatypes.Location;
-import de.hamstersimulator.objectsfirst.external.model.Hamster;
-
 public class PaulesFriendsGame extends InternalPaulesFriendsGame {
 
 	/**
