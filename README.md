@@ -3,19 +3,7 @@
 ## Content of this exercise sheet
 This repository contains all projects for exercise sheet 04.
 
-In the **presense part** you will ...
-1. take a look at objects, classes and interfaces (JavaDoc).
-2. **use the Hamster-Simulator to programmatically create and control two Hamsters.**
-3. write and analyze JML-expressions (pre- & postconditions) using the Hamster-Simulator.
-4. describe differences between "identifier", "entity", "reference" and "object".
-
-In the **homework part** you will ...
-1. create an Abstract Syntax Tree and analyze  AST for its different mistakes.
-2. work with interfaces, JavaDoc, pre- & postconditions.
-3. use and describe an API.
-
-In the **teaching part** you will ...
-1. you will use "JavaKara" and compare it to the Hamster-Simulator.
+In the **presense part** you will use the Hamster-Simulator to programmatically create two friends for `paule` and control them in the territory.
 
 ## Run the project
 To install Java, set up your IDE and clone the repository into your workspace, please follow the instructions in "exercise sheet 01, Part 0 - Preparation".
