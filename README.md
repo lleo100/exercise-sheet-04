@@ -1,4 +1,4 @@
-# Exercise sheet 4
+# Exercise sheet 04
 
 ## Content of this exercise sheet
 This repository contains all projects for exercise sheet 04.
