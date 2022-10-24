@@ -3,12 +3,13 @@ package de.unistuttgart.iste.sqa.pse.sheet04.exercise;
 import de.hamstersimulator.objectsfirst.inspector.InspectableSimpleHamsterGame;
 
 /**
- * abstract class Exercise04Base - describe this class right here.
- * 
- * @author (Your name)
- * @version (A date or a version number)
+ * Class for creating and running the Hamster-Simulator for exercise 2 in part A.
  */
 public abstract class InternalPaulesFriendsGame extends InspectableSimpleHamsterGame {
+
+	/**
+	 * Creates and runs Hamster-Simulator for exercise 2 in part A.
+	 */
 	public InternalPaulesFriendsGame() {
 		this.loadTerritoryFromResourceFile("/territories/territory-ub04.ter");
 		this.displayInNewGameWindow();
