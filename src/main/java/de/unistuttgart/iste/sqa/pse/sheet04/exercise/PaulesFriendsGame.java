@@ -14,8 +14,7 @@ public class PaulesFriendsGame extends InternalPaulesFriendsGame {
 
 	/**
 	 * Creates {@code paule}s friends {@code ronnie} in the bottom right corner and
-	 * {@code paula} in the bottom left corner (-> exercise 2b).
-	 * Then {@code paula} walks to {@code paule} without touching {@code ronnie} (-> exercise 2c).
+	 * {@code paula} in the bottom left corner.
 	 */
 	void createPaulesFriends() {
 	
