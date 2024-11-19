@@ -3,6 +3,7 @@ package de.unistuttgart.iste.sqa.pse.sheet04.exercise;
 import de.hamstersimulator.objectsfirst.datatypes.Direction;
 import de.hamstersimulator.objectsfirst.datatypes.Location;
 import de.hamstersimulator.objectsfirst.external.model.Territory;
+import de.hamstersimulator.objectsfirst.external.model.Hamster;
 
 /**
  * In this hamster-game {@code paule} gets two new friends.
@@ -21,19 +22,19 @@ public class PaulesFriendsGame extends InternalPaulesFriendsGame {
 		// TODO initialize variables below with values according to exercise 1 of sheet 4
 		
 		// Local variables for Ronnie
+		Territory territoryRonnie;
 		Location locationRonnie;
 		Direction directionRonnie;
-		Territory territoryRonnie;
 		Integer grainCountRonnie;
 		
 		// Local variables for Paula
-		Location locationPaula;
-		Direction directionPaula;
 		Territory territoryPaula;
+		Direction directionPaula;
+		Location locationPaula;
 		Integer grainCountPaula;
 		
 		// TODO create hamsters according to exercise 1 of sheet 4
-
+		
 				
 
 		// Hint: Be careful with the location of the new hamsters
